@@ -55,6 +55,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
+
 	</dependencies>
 	<build>
 		<plugins>
@@ -71,6 +72,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-blog-aws</finalName>
 	</build>
+
+
 
 </project>
