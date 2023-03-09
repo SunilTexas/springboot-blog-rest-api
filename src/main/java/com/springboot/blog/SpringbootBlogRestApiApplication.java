@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 
-public class SpringbootBlogRestApiApplication extends SpringBootServletInitializer {
+public class SpringbootBlogRestApiApplication extends SpringBootServletInitializer{
 
 	//spring.datasource.url=jdbc:mysql://localhost:3306/myblog?useSSL=false&allowPublicKeyRetrieval=true, Prakash
 	public static void main(String[] args) {

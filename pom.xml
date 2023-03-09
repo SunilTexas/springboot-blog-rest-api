@@ -60,7 +60,6 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency>
-
 	</dependencies>
 	<build>
 		<plugins>
@@ -77,9 +76,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-blog-aws</finalName>
 	</build>
 	<packaging>war</packaging>
-
-
 </project>
